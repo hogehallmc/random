@@ -17,3 +17,4 @@ theme changes easy.
 - leaning toward a minimal design, the home screen would have our logo in the
   center with a backdrop of the map behind it. Maybe something like this:
   ![example site 1](https://proxy.spigotmc.org/ba838b276c98f117c6ea54db957bcdd217687bc5?url=https%3A%2F%2Fimage.prntscr.com%2Fimage%2FNFbdMgGMRZqu8sS07YlrkQ.png)
+- I think the home screen should only have our logo, both server's ipaddr, and a link to our discord server. We would then use the other pages to convey info in more depth if needed.
