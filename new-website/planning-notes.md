@@ -20,3 +20,5 @@ theme changes easy.
 - I think the home screen should only have our logo, both server's ipaddr, and a link to our discord server. We would then use the other pages to convey info in more depth if needed.
 - Another landing page example:
   ![landing page example](https://cdn.dribbble.com/users/395552/screenshots/5874760/mcgopening.jpg)
+- antha one:
+  ![full website design](https://cdn.dribbble.com/users/395552/screenshots/5858494/burgermine.png)
